@@ -1,0 +1,7 @@
+@import 'normalize.css';
+@import 'open-color/open-color.css';
+
+* {
+	font-family: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', Pretendard, Roboto,
+		'Noto Sans KR', 'Segoe UI', 'Malgun Gothic', sans-serif;
+}
